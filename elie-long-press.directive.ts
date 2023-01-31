@@ -6,7 +6,7 @@
  * ☎️ Phone (home) : 1 (647) 453-9954
  * 🌐 Website URL  : https://eliekassouf.herokuapp.com
  * ----------------------------------------------------
- * 🗓️ Last Revised : Monday, January 30th 2022
+ * 🗓️ Last Revised : Monday, January 30th 2023
  * ----------------------------------------------------
  * #️⃣ Version: 3.1.0
  * ----------------------------------------------------
@@ -22,8 +22,9 @@
  * holds the touch or mouse down for a certain amount
  * of time.
  *
- * The directive will can also emits continuously
- * after a certain amount of time using rxjs.
+ * The directive can also emit continuously
+ * after certain amount by pressing/touching.
+ * RxJS is used to make this happen.
  *
  * Keep this directive simple and easy to use. Meaning
  * the actual logic of the long press should be
