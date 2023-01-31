@@ -8,7 +8,7 @@
 - elieLongPressEvent emits <TouchEvent | MouseEvent>.
 - elieLongPressContinuousEvent does not pass any params.
 
-```
+```html
 <div
   elieLongPress
   [elieLongPressContinuousFiring]="false"
