@@ -1,4 +1,4 @@
-# Angular Long Press Directive
+# Elie's Angular Long Press Directive
 - ℹ️ Long Press/Continuous Press Directive for Angular.
 - #️⃣ Created for Angular 15 and above.
 
